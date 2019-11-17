@@ -1,2 +1,2 @@
-# Nmitians31/#indianpolicehackethon
+# Nmitians31/indianpolicehackethon
 india police hackethon
